@@ -21,3 +21,5 @@ Conducted comprehensive research to understand the principles of the Johnny Deci
 - Use the Johnny Decimal System to organize relative links in the wiki.
   
 Applied the Johnny Decimal System framework to categorize and organize wiki links effectively.
+
+- Converted hundreds of articles into markdown format for a digital transformation company looking to publish their wiki on the web.
