@@ -6,7 +6,7 @@
 | SharePoint/M365 Office  | Microsoft Teams  | Windows 10/11 | Azure DevOps |
 |--|--|--|--|
 | **Azure AD** | **Markdown/Html**  | **VSCode/GitHub/GitLab**  | **PowerShell/JSON**   |
-| **Google Drive** | **AWS** | **Macros/G Hub** | **WireGuard** |
+| **Google Drive** | **AWS** | **Hyper-automation** | **WireGuard** |
 
 ## Professional Experience
 
@@ -14,7 +14,7 @@
 
 ### **Junior DevOps Admin** _2023 - Current_
 
-- Developed macros and other tools to expedite large scale changes to company wiki in Azure DevOps and VSCode. 
+- Developed hyper-automated solutions using macros and other tools to expedite large scale changes within Azure DevOps and utilizing VSCode. 
 
 - Implemented effective formatting techniques to maintain consistent wiki article structure using mark-up languages like markdown, html and CSS. 
 
