@@ -8,7 +8,7 @@
 | **Azure AD** | **Markdown/Html**  | **VSCode/GitHub/GitLab**  | **PowerShell/JSON**   |
 | **Google Drive** | **AWS** | **Hyper-automation** | **WireGuard** |
 
----
+## Technical Summary
 
 | Office | Cloud | Development | Programming |
 |--|--|--|--|
