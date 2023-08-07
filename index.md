@@ -8,13 +8,21 @@
 | **Azure AD** | **Markdown/Html**  | **VSCode/GitHub/GitLab**  | **PowerShell/JSON**   |
 | **Google Drive** | **AWS** | **Hyper-automation** | **WireGuard** |
 
+| Office | Cloud | Development | Programming |
+|--|--|--|--|
+| Sharepoint | AzureAD  | Azure DevOps  | PowerShell | 
+| M365 | AWS | Markdown | GitHub |
+| OneDrive | Gitlab | Html | JSON |
+|  |  | Hyperautomation | VPN |
+|  |  | VSCode  |   |
+
 ## Professional Experience
 
 ### _Digital Transformation Innovators Group_
 
 ### **Junior DevOps Admin** _2023 - Current_
 
-- Developed hyper-automated solutions using macros and other tools to expedite large scale changes within Azure DevOps and utilizing VSCode. 
+- Developed hyperautomated solutions using macros and other tools to expedite large scale changes within Azure DevOps and utilizing VSCode. 
 
 - Implemented effective formatting techniques to maintain consistent wiki article structure using mark-up languages like markdown, html and CSS. 
 
