@@ -1,25 +1,47 @@
-- Add table of contents header and metadata footer to all wiki pages.
-  
-Utilized multi-key macros and other tools to expedite this process.
+# **Lucas Estafanous**
+### Email: l.a.estafanous@gmail.com
 
-- Create articles on wiki header and footer additions.
-  
-Implemented effective formatting techniques for consistent article structure.
+## Technical Summary
 
-- Reformat absolute links into relative links in the wiki.
-  
-Utilized VSCode to locate and edit links efficiently.
+| SharePoint/M365 Office  | Microsoft Teams  | Windows 10/11  | Azure DevOps  |
+|--|--|--|--|
+| Azure AD  | Markdown/Html  | VSCode/GitHub/GitLab  |PowerShell/JSON   |
+|Google Drive   | AWS  |Macros/G Hub   |WireGuard   |
 
-- Create a wiki article template and pin it to ADO.
-  
-Employed knowledge of wiki markup language and ADO functionality.
+## Professional Experience
 
-- Research Johnny Decimal System.
-  
-Conducted comprehensive research to understand the principles of the Johnny Decimal System.
+### _Digital Transformation Innovators Group_
 
-- Use the Johnny Decimal System to organize relative links in the wiki.
-  
-Applied the Johnny Decimal System framework to categorize and organize wiki links effectively.
+### **Junior DevOps Admin** _2023 - Current_
 
-- Converted hundreds of articles into markdown format for a digital transformation company looking to publish their wiki on the web.
+- Developed macros and other tools to expedite large scale changes to company wiki in Azure DevOps and VSCode. 
+
+- Implemented effective formatting techniques to maintain consistent wiki article structure using mark-up languages like markdown, html and CSS. 
+
+- Employed knowledge of markdown language and Azure DevOps functionality to create and apply wiki article templates. 
+
+- Conducted comprehensive research to understand Johnny Decimal System and apply JDS framework to all organization file structures. 
+
+- Utilized PowerShell to efficiently reformat a substantial volume of pages, streamlining the document conversion process and ensuring consistent formatting across multiple files.
+
+### _Kingkiller Games_
+
+### **Game Developer** _2020 - Current_
+
+- Spearheaded the creative process by generating innovative ideas and concepts for new game content, enriching the gaming experience for players. 
+
+- Conducted thorough analysis and evaluation of new and existing game content to maintain a delicate balance between fresh additions and existing features. 
+
+- Stayed updated on industry trends, competitor products, and player feedback, providing valuable insights to drive decision-making and ensure the game's continued growth and success. 
+
+- Actively engaged in playtesting the game to identify and address potential gameplay issues, providing valuable feedback to improve game mechanics, balance, and overall user experience.
+
+### _Milestones Autism Resources_
+
+### **Office Intern** _2015 - 2017_
+
+- Implemented automation scripts in Microsoft Excel, optimizing data analysis processes for large datasets, facilitating historical and trend analysis. 
+
+- Collaborated with the team to configure and manage the organization's online database, ensuring accurate and up-to-date information for easy access and retrieval. 
+
+- Utilized organizational and multitasking skills to provide clerical support, enhancing the efficiency of daily administrative tasks and office operations.
