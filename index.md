@@ -3,7 +3,7 @@
 
 ## Technical Summary
 
-| SharePoint/M365 Office  | Microsoft Teams  | Windows 10/11 | Azure DevOps |
+| **SharePoint/M365 Office**  | **Microsoft Teams**  | **Windows 10/11** | **Azure DevOps** |
 |--|--|--|--|
 | **Azure AD** | **Markdown/Html**  | **VSCode/GitHub/GitLab**  | **PowerShell/JSON**   |
 | **Google Drive** | **AWS** | **Hyper-automation** | **WireGuard** |
