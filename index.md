@@ -11,13 +11,14 @@
 
 ## Technical Summary
 
-| Office | Cloud | Development | Programming |
+| Office | Cloud | DevOps | Programming |
 |--|--|--|--|
-| Sharepoint | AzureAD  | Azure DevOps  | PowerShell | 
-| M365 | AWS | Markdown | GitLab |
-| OneDrive | GithHub | Html | JSON |
-|  |  | Hyperautomation | VPN |
-|  |  | VSCode  |   |
+| AzureAD | Azure | Azure DevOps  | VSCode | 
+| M365 | AWS | GitHub | Markdown/HTML/CSS |
+| SharePoint | VPN | GitLab | JSON/XML/SOAP/REST |
+| MS Office | Google Cloud | Hyperautomation | PowerShell |
+
+
 
 ## Professional Experience
 
