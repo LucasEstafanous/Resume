@@ -14,8 +14,8 @@
 | Office | Cloud | Development | Programming |
 |--|--|--|--|
 | Sharepoint | AzureAD  | Azure DevOps  | PowerShell | 
-| M365 | AWS | Markdown | GitHub |
-| OneDrive | Gitlab | Html | JSON |
+| M365 | AWS | Markdown | GitLab |
+| OneDrive | GithHub | Html | JSON |
 |  |  | Hyperautomation | VPN |
 |  |  | VSCode  |   |
 
