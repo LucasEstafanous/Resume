@@ -1,1 +1,4 @@
-theme: jekyll-theme-monos
+```yml
+highlighter-theme: monokai //you can change your syntax color scheme.
+date_format: "%Y-%M-%D" //and date format.
+```
