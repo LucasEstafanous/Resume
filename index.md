@@ -20,13 +20,13 @@
 
 - Developed hyperautomated solutions using macros and other tools to expedite large scale changes within Azure DevOps and utilizing VSCode. 
 
-- Implemented effective formatting techniques to maintain consistent wiki article structure using mark-up languages like markdown, html and CSS. 
+- Audited web pages, applications, and services (e.g., Azure DevOps, GitLab, Grafana, Synology, GitHub), anonymizing sensitive data as required. Uploaded sanitized screenshots to company file share for marketing purposes.
+  
+- Applied knowledge of markdown language and Azure DevOps functionality to create and apply wiki article templates. 
 
-- Employed knowledge of markdown language and Azure DevOps functionality to create and apply wiki article templates. 
+- Utilized Agile SCRUM and Azure DevOps' Work Item Types (WITs) to create and manage tasks for team objectives, ensuring efficient progress tracking.
 
-- Conducted comprehensive research to understand Johnny Decimal System and apply JDS framework to all organization file structures. 
-
-- Utilized PowerShell to efficiently reformat a substantial volume of pages, streamlining the document conversion process and ensuring consistent formatting across multiple files.
+- Employed use of PowerShell to efficiently reformat a substantial volume of pages, streamlining the document conversion process and ensuring consistent formatting across multiple files.
 
 ### _Kingkiller Games_
 
