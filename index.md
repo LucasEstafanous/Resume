@@ -20,6 +20,8 @@
 
 - Developed hyperautomated solutions using macros and other tools to expedite large scale changes within Azure DevOps and utilizing VSCode. 
 
+- Led GitLab repository reconciliation, ensuring file accuracy and optimizing README content for enhanced project documentation.
+
 - Audited web pages, applications, and services (e.g., Azure DevOps, GitLab, Grafana, Synology, GitHub), anonymizing sensitive data as required. Uploaded sanitized screenshots to company file share for marketing purposes.
   
 - Applied knowledge of markdown language and Azure DevOps functionality to create and apply wiki article templates. 
@@ -27,7 +29,7 @@
 - Utilized Agile SCRUM and Azure DevOps' Work Item Types (WITs) to create and manage tasks for team objectives, ensuring efficient progress tracking.
 
 - Employed use of PowerShell to efficiently reformat a substantial volume of pages, streamlining the document conversion process and ensuring consistent formatting across multiple files.
-
+  
 ### _Kingkiller Games_
 
 ### **Game Developer** _2020 - Current_
