@@ -28,8 +28,6 @@
 
 - Utilized Agile SCRUM and Azure DevOps' Work Item Types (WITs) to create and manage tasks for team objectives, ensuring efficient progress tracking.
 
-- Employed use of PowerShell to efficiently reformat a substantial volume of pages, streamlining the document conversion process and ensuring consistent formatting across multiple files.
-
 - Automated the creation of GitHub repository README files through prompt engineering and natural language generation, improving project documentation and user clarity.
 
 - Created a bash script by automating data extraction and formatting, streamlining the conversion of a substantial volume of markdown files to HTML for improved readability and accessibility.
