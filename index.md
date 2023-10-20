@@ -33,7 +33,8 @@
 - Automated the creation of GitHub repository README files through prompt engineering and natural language generation, improving project documentation and user clarity.
 
 - Created a bash script by automating data extraction and formatting, streamlining the conversion of a substantial volume of markdown files to HTML for improved readability and accessibility.
-  
+- Designed and executed website tests using Selenium, ensuring the reliability and functionality of web applications.
+
 ### _Kingkiller Games_
 
 ### **Game Developer** _2020 - Current_
