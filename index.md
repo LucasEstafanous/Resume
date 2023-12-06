@@ -32,6 +32,9 @@
 
 - Created a bash script by automating data extraction and formatting, streamlining the conversion of a substantial volume of markdown files to HTML for improved readability and accessibility.
 - Designed and executed website tests using Selenium, ensuring the reliability and functionality of web applications.
+- Implemented monitoring solutions on Uptime Kuma to track and assess website/server connectivity through consistent pinging, ensuring proactive identification and resolution of potential issues.
+- Conducted version updates on servers by securely accessing diverse environments via SSH and utilizing the console, ensuring seamless transitions to the latest software versions for enhanced performance and security.
+- Managed and updated stacks and containers within Docker using Portainer, ensuring efficient deployment and maintenance of software stacks for enhanced system performance and reliability.
 
 ### _Kingkiller Games_
 
