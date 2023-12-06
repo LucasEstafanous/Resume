@@ -22,18 +22,22 @@
 
 - Led GitLab repository reconciliation, ensuring file accuracy and optimizing README content for enhanced project documentation.
 
-- Audited web pages, applications, and services (e.g., Azure DevOps, GitLab, Grafana, Synology, GitHub), anonymizing sensitive data as required. Uploaded sanitized screenshots to company file share for marketing purposes.
+- Audited web pages, applications, and services (e.g., Azure DevOps, GitLab, Grafana, Synology, GitHub), anonymizing sensitive data including sanitized screenshots and assets.
   
-- Applied knowledge of markdown language and Azure DevOps functionality to create and apply wiki article templates. 
-
 - Utilized Agile SCRUM and Azure DevOps' Work Item Types (WITs) to create and manage tasks for team objectives, ensuring efficient progress tracking.
+
+- Applied knowledge of markdown language and Azure DevOps functionality to create and apply wiki article templates. 
 
 - Automated the creation of GitHub repository README files through prompt engineering and natural language generation, improving project documentation and user clarity.
 
 - Created a bash script by automating data extraction and formatting, streamlining the conversion of a substantial volume of markdown files to HTML for improved readability and accessibility.
+
 - Designed and executed website tests using Selenium, ensuring the reliability and functionality of web applications.
-- Implemented monitoring solutions on Uptime Kuma to track and assess website/server connectivity through consistent pinging, ensuring proactive identification and resolution of potential issues.
-- Conducted version updates on servers by securely accessing diverse environments via SSH and utilizing the console, ensuring seamless transitions to the latest software versions for enhanced performance and security.
+
+- Implemented alerting and monitoring solutions within various management software, such as Grafana, for website/node connectivity.
+
+- Conducted version updates on servers by securely accessing diverse environments via SSH and utilizing the console, ensuring seamless transitions to the latest software versions for enhanced performance and security. Proficient in remoting software, such as SSH, RDP, and Ansible to orchestrate host and node settings and issue updates. [move to line 5]
+
 - Managed and updated stacks and containers within Docker using Portainer, ensuring efficient deployment and maintenance of software stacks for enhanced system performance and reliability.
 
 ### _Kingkiller Games_
