@@ -22,9 +22,11 @@
 
 - Led GitLab repository reconciliation, ensuring file accuracy and optimizing README content for enhanced project documentation.
 
-- Audited web pages, applications, and services (e.g., Azure DevOps, GitLab, Grafana, Synology, GitHub), anonymizing sensitive data including sanitized screenshots and assets.
+- Audited and anonymized sensitive data on web pages, applications, and services (e.g., Azure DevOps, GitLab, Grafana) through sanitized screenshots, enhancing security and documentation.
   
 - Utilized Agile SCRUM and Azure DevOps' Work Item Types (WITs) to create and manage tasks for team objectives, ensuring efficient progress tracking.
+
+- Demonstrated proficiency in remoting software, including SSH, RDP, and Ansible, to orchestrate host and node configurations, facilitating seamless updates and efficient management of systems.
 
 - Applied knowledge of markdown language and Azure DevOps functionality to create and apply wiki article templates. 
 
@@ -35,8 +37,6 @@
 - Designed and executed website tests using Selenium, ensuring the reliability and functionality of web applications.
 
 - Implemented alerting and monitoring solutions within various management software, such as Grafana, for website/node connectivity.
-
-- Conducted version updates on servers by securely accessing diverse environments via SSH and utilizing the console, ensuring seamless transitions to the latest software versions for enhanced performance and security. Proficient in remoting software, such as SSH, RDP, and Ansible to orchestrate host and node settings and issue updates. [move to line 5]
 
 - Managed and updated stacks and containers within Docker using Portainer, ensuring efficient deployment and maintenance of software stacks for enhanced system performance and reliability.
 
